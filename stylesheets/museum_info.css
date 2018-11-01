@@ -1,0 +1,29 @@
+.container {
+  min-width: 700px;
+}
+
+table {
+  margin-top: 10px;
+  float: left;
+}
+
+table, th, td {
+  border: 1px solid black
+}
+
+th {
+  padding: 7px;
+  color: gray;
+}
+
+td {
+  padding: 7px 10px;
+}
+
+th:first-child, th:nth-child(3) {
+  background-color: orange;
+}
+
+.white-background {
+  background-color: white;
+}

@@ -1,0 +1,51 @@
+h2 {
+  margin: 0;
+}
+
+.container {
+  min-width: 750px;
+}
+
+.container a {
+  margin: 10px 0;
+}
+
+a {
+  clear: left;
+}
+
+.box {
+  width: 620px;
+  margin: 15px leftpx;
+  float: left;
+}
+
+.content {
+  height: 81.5%;
+}
+
+hr {
+  width: 620px;
+  color: gray;
+  border-top: 1.5px solid black;
+  clear: both;
+}
+
+.section {
+  width: 190px;
+  margin: 15px 0;
+  float: left;
+}
+
+.section a {
+  display: block;
+}
+
+.section-image {
+  height: 110px;
+}
+
+
+.link {
+  display: inline-block;
+}
